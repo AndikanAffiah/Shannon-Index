@@ -1,6 +1,5 @@
 import math
 import numpy as np
-from numpy import genfromtxt, isnan, savetxt
 
 
 
