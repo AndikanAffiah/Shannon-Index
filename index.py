@@ -1,9 +1,6 @@
 import math
 import numpy as np
 
-
-
-
 def Shannon_index(dataset):
     data = []
     j = sum(dataset)
